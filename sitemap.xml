@@ -1,51 +1,63 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-         <loc>https://steob92.github.io/test_website/</loc>
-         <lastmod>2024-10-24</lastmod>
+         <loc>https://steob92.github.io/mcgill-tutorial/</loc>
+         <lastmod>2024-11-06</lastmod>
+         <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://steob92.github.io/test_website/about/</loc>
-         <lastmod>2024-10-24</lastmod>
+         <loc>https://steob92.github.io/mcgill-tutorial/about/</loc>
+         <lastmod>2024-11-06</lastmod>
+         <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://steob92.github.io/test_website/about/cooking/</loc>
-         <lastmod>2024-10-24</lastmod>
+         <loc>https://steob92.github.io/mcgill-tutorial/about/cooking/</loc>
+         <lastmod>2024-11-06</lastmod>
+         <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://steob92.github.io/test_website/about/cycling/</loc>
-         <lastmod>2024-10-24</lastmod>
+         <loc>https://steob92.github.io/mcgill-tutorial/about/cycling/</loc>
+         <lastmod>2024-11-06</lastmod>
+         <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://steob92.github.io/test_website/about/fishing/</loc>
-         <lastmod>2024-10-24</lastmod>
+         <loc>https://steob92.github.io/mcgill-tutorial/about/fishing/</loc>
+         <lastmod>2024-11-06</lastmod>
+         <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://steob92.github.io/test_website/projects/</loc>
-         <lastmod>2024-10-24</lastmod>
+         <loc>https://steob92.github.io/mcgill-tutorial/projects/</loc>
+         <lastmod>2024-11-06</lastmod>
+         <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://steob92.github.io/test_website/projects/data_project/</loc>
-         <lastmod>2024-10-24</lastmod>
+         <loc>https://steob92.github.io/mcgill-tutorial/projects/data_project/</loc>
+         <lastmod>2024-11-06</lastmod>
+         <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://steob92.github.io/test_website/projects/python_project/python_project/</loc>
-         <lastmod>2024-10-24</lastmod>
+         <loc>https://steob92.github.io/mcgill-tutorial/projects/python_project/python_project/</loc>
+         <lastmod>2024-11-06</lastmod>
+         <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://steob92.github.io/test_website/reasearch/</loc>
-         <lastmod>2024-10-24</lastmod>
+         <loc>https://steob92.github.io/mcgill-tutorial/reasearch/</loc>
+         <lastmod>2024-11-06</lastmod>
+         <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://steob92.github.io/test_website/reasearch/all_publications/</loc>
-         <lastmod>2024-10-24</lastmod>
+         <loc>https://steob92.github.io/mcgill-tutorial/reasearch/all_publications/</loc>
+         <lastmod>2024-11-06</lastmod>
+         <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://steob92.github.io/test_website/reasearch/highlights/awesome_paper/</loc>
-         <lastmod>2024-10-24</lastmod>
+         <loc>https://steob92.github.io/mcgill-tutorial/reasearch/highlights/awesome_paper/</loc>
+         <lastmod>2024-11-06</lastmod>
+         <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://steob92.github.io/test_website/reasearch/highlights/large_mwl_paper/</loc>
-         <lastmod>2024-10-24</lastmod>
+         <loc>https://steob92.github.io/mcgill-tutorial/reasearch/highlights/large_mwl_paper/</loc>
+         <lastmod>2024-11-06</lastmod>
+         <changefreq>daily</changefreq>
     </url>
 </urlset>
